@@ -50,8 +50,8 @@
 > 💡 **ئەسكەرتىش:** تۆۋەندىكى كود ئىچىدىكى `YOUR_GITHUB_USERNAME` دېگەن خەتنى ئۆزىڭىزنىڭ گىتخاپ قوللانچى نامىغا (Username) ئۆزگەرتسىڭىز، ئۆزىڭىزنىڭ ھەقىقىي ستاتىستىكىسى چىقىدۇ.
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=abdusalam-ali&show_icons=true&title_color=0099FF&icon_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Shukran's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusalam-ali&layout=compact&title_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=uyaziz&show_icons=true&title_color=0099FF&icon_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Shukran's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyaziz&layout=compact&title_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
@@ -59,7 +59,7 @@
 ### 🌐 ئالاقىلىشىش | Connect With Me
 
 <div align="center">
-  <a href="https://github.com/abdusalam-ali">
+  <a href="https://github.com/UyAziz">
     <img src="https://img.shields.io/badge/GitHub-Shukran_Uyghur-0099FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://t.me/YOUR_TELEGRAM">
