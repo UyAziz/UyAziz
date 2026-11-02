@@ -47,11 +47,11 @@
 
 ### 📊 گىتخاپ ستاتىستىكىسى | GitHub Stats
 
-> 💡 **ئەسكەرتىش:** تۆۋەندىكى كود ئىچىدىكى `YOUR_GITHUB_USERNAME` دېگەن خەتنى ئۆزىڭىزنىڭ گىتخاپ قوللانچى نامىغا (Username) ئۆزگەرتسىڭىز، ئۆزىڭىزنىڭ ھەقىقىي ستاتىستىكىسى چىقىدۇ.
+> 
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=uyaziz&show_icons=true&title_color=0099FF&icon_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Shukran's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyaziz&layout=compact&title_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=UyAziz&show_icons=true&title_color=0099FF&icon_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Shukran's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyAziz&layout=compact&title_color=0099FF&text_color=333333&bg_color=F0F8FF&border_color=0099FF&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
