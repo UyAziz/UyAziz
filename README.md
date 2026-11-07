@@ -9,7 +9,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=700&lines=Assalamu+Alaykum!+Welcome+to+my+GitHub+Profile;Independent+AI+%26+Full-Stack+Software+Engineer;Building+Privacy-First+Chrome+Extensions+%26+AI+Agents;Let's+build+the+future+together!" alt="Typing SVG" />
   </a>
 </div>
-
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdusalam-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shukran's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusalam-ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdusalam-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  </p>
+</div>
 ---
 
 ### 👋 سالام! مەن شۇكران ئۇيغۇر (Shukran Uyghur)
@@ -39,15 +47,7 @@
 
 ### 📊 GitHub στατισტიკىسى (Stats & Streak)
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=abdusalam-ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shukran's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusalam-ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdusalam-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-  </p>
-</div>
+
 
 ---
 
